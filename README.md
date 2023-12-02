@@ -9,7 +9,10 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abtalha" alt="abtalha" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/@mrab94425827" target="blank"><img src="https://img.shields.io/twitter/follow/@mrab94425827?logo=twitter&style=for-the-badge" alt="@mrab94425827" /></a> </p>
+[![@abtalha Holopin board](https://holopin.io/api/user/board?user=0xlightning)](https://holopin.io/@abtalha)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=0xlightning&label=Views&color=blue&style=plastic" alt="0xlightning" /> </p>
 
+***
 - 🔭 I’m currently working on [Tryhackme CTF](Tryhackme.com)
 
 - 🌱 I’m currently learning **Applications Penetration Tester | Linux System Administration | Python + PHP + Perl Lover | eWPTXv2 | Security+**
