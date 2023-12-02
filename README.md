@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ab Talha</h1>
-![image](/programer.gif)
+![image](https://github.com/abtalha/abtalha/assets/55474941/4f6799a7-1561-4d5c-ac37-b3b78056d517)
+
 <h3 align="center">Applications Penetration Tester | Linux System Administration | Python + PHP + Perl Lover | eWPTXv2 | Security+ | CTF player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abtalha&label=Profile%20views&color=0e75b6&style=flat" alt="abtalha" /> </p>
