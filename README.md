@@ -1,4 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ab Talha</h1>
+https://github.com/0xlightning/0xlightning/blob/main/iteams/programer.gif
 <h3 align="center">Applications Penetration Tester | Linux System Administration | Python + PHP + Perl Lover | eWPTXv2 | Security+ | CTF player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abtalha&label=Profile%20views&color=0e75b6&style=flat" alt="abtalha" /> </p>
