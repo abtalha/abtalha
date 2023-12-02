@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, I'm Ab Talha</h1>
-![image](https://github.com/abtalha/abtalha/assets/55474941/4f6799a7-1561-4d5c-ac37-b3b78056d517)
+<p align="center"><img height="30" src="https://forthebadge.com/images/badges/winter-is-coming.svg"/></p>
 
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/0xlightning/0xlightning/main/iteams/Hi.gif" height="30" width="30" />  I'm Ab Talha</h1>
+<img src="https://raw.githubusercontent.com/0xlightning/0xlightning/main/iteams/programer.gif />
 <h3 align="center">Applications Penetration Tester | Linux System Administration | Python + PHP + Perl Lover | eWPTXv2 | Security+ | CTF player</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abtalha&label=Profile%20views&color=0e75b6&style=flat" alt="abtalha" /> </p>
